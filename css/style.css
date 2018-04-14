@@ -1,3 +1,7 @@
+.fondo{
+	background-image: url("../img/graph-tile.png");
+	height: 2280px;
+}
 .seccion1{
 	margin-top: 5%;
 }
@@ -15,4 +19,21 @@ h1{
 }
 .seccion4{
 	margin-top: 5%;
+	border: solid 1px gray;
+	border-radius: 15px;
+	padding: 2%;
+}
+.logo{
+	display: block;
+	margin:auto;
+	margin-top: 5%;
+}
+.textofinal{
+	margin-top: 5%;
+}
+.seccion2{
+	margin-top: 5%;
+	border: solid 1px gray;
+	border-radius: 15px;
+	padding: 5%;
 }
