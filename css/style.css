@@ -35,3 +35,10 @@ h1{
 .seccion4{
 	margin-top: 2%;
 }
+p:first-letter{
+ 	font-size: 60px;
+ 	font-color:red;
+ 	margin-right: 5px;
+ 	color: red;
+ 	
+}
