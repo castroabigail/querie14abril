@@ -1,3 +1,7 @@
+/*rojo: #ba1820;*/
+body{
+	font-family: Times New Roman;
+}
 .fondo{
 	background-image: url("../img/graph-tile.png");
 	height: 2280px;
@@ -10,12 +14,13 @@
 }
 
 h1{
-	color: red;
+	color: #ba1820;
 	font-size: 35px;
 }
 .subtitulo2{
 	font-size: 20px;
 	margin-top: 58%;
+	color: #ba1820;
 }
 
 .logo{
@@ -37,8 +42,10 @@ h1{
 }
 p:first-letter{
  	font-size: 60px;
- 	font-color:red;
+ 	font-color:#ba1820;
  	margin-right: 5px;
- 	color: red;
- 	
+ 	color: #ba1820;
+ }
+p::first-line{
+	color:#ba1820;
 }
